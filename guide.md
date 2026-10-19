@@ -11,3 +11,8 @@ projects online and share them with other people.
 - You can go back to an earlier version if you make a mistake.
 - Several people can work on the same project without overwriting each other.
 - Your code is backed up on GitHub, so you won't lose it if your computer breaks.
+
+## Branches
+A branch is a separate line of work in your project. It lets you try new
+ideas or build a feature without changing the main version. When the work
+is ready, you merge the branch back into main.
