@@ -1,4 +1,4 @@
-# A Guide to Git Commands
+# Easy Guide to Git Commands
 
 A beginner-friendly how-to guide covering the most common Git commands:
 setting up a repository, saving changes, working with branches, and
