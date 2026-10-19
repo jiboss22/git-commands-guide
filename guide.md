@@ -23,3 +23,12 @@ is ready, you merge the branch back into main.
 - `git checkout main` – switches back to the main branch.
 - `git merge feature/name` – adds the changes from a branch into the branch you are on.
 - `git branch -d feature/name` – deletes a branch after it has been merged.
+
+### Example
+```
+git checkout -b feature/new-section
+git add guide.md
+git commit -m "Add new section"
+git checkout main
+git merge feature/new-section
+```
