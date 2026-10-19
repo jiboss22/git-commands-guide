@@ -16,3 +16,10 @@ projects online and share them with other people.
 A branch is a separate line of work in your project. It lets you try new
 ideas or build a feature without changing the main version. When the work
 is ready, you merge the branch back into main.
+
+### Branch Commands
+- `git branch` – lists all branches and shows which one you are on.
+- `git checkout -b feature/name` – creates a new branch and switches to it.
+- `git checkout main` – switches back to the main branch.
+- `git merge feature/name` – adds the changes from a branch into the branch you are on.
+- `git branch -d feature/name` – deletes a branch after it has been merged.
